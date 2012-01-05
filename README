@@ -1,0 +1,11 @@
+# tsv2trac
+
+A desktop tool to convert tab separated data (e.g. copied out of an
+OpenOffice spreadsheet) into Trac wiki table format... which is normally
+brutally boring to do by hand!
+
+Run like this:
+
+python tsv2trac.py
+
+:-)
